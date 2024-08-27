@@ -8,3 +8,63 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+/*
+··· cosas complicadas que no salieron ···
+
+@media (width > 768px ) {
+    body{
+        background-color: white;
+    }
+}
+#navegador{
+    border: 2px solid red;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#navegador .div-2 button{
+    border: 2px solid greenyellow;
+    position: relative;
+    left: 900px;
+    
+
+}
+.div-1 ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-evenly;
+    border:2px solid yellow;
+    position: relative;
+    top: 5;
+
+    
+}
+.div-1 a{
+    color: white;
+    text-decoration: none;
+}
+.div-1 img{
+    width: 5rem;
+    height: 1.5rem;
+}
+*/
+
+
+
+html{
+    font-size: 15px;
+}
+
+body {
+    background-color: purple;
+    margin: 0; 
+    text-align: center;
+    color: white;
+}
+
+#navegator .div-1 ul {
+    display: none;
+}
+
